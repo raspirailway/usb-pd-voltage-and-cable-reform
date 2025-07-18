@@ -10,8 +10,8 @@ USB Power Delivery (PD) is a revolutionary standard, but some design choices—e
 
 ## Why 12V Matters
 - Widely used in routers, HDDs, monitors, LED lighting, and automotive devices.
-- Compatible with 3A non-E-Marker cables (up to 36W).
 - Already supported by many PD chargers via optional profiles—should be standardized.
+- Compatible with 3A non-E-Marker cables (up to 36W).
 
 ## Why 15V Is Problematic
 - Rarely used in actual devices (especially in Japan).
